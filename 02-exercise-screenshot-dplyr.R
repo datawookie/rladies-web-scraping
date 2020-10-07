@@ -38,5 +38,11 @@
 
 # Automate screenshots from a series of sites or pages.
 
+# Important take-aways from this exercise:
+#
+# - It's good to loop.
+# - It's good to log.
+# - It's good to lag (sleep).
+
 # === -> YOUR CODE ===
 # === <- YOUR CODE ===
