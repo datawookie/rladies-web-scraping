@@ -22,5 +22,3 @@
 
    - Use the text-align property.
    - Use an adjacent sibling selector.
-
-6. Left-align the first cell in the table footer.
