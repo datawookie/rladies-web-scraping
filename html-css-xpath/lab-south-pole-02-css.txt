@@ -1,0 +1,26 @@
+==============================================================================================================
+= CSS EXERCISE                                                                                               =
+==============================================================================================================
+
+1. Add a <style> tag to the head of the South Pole HTML file.
+2. Change the font for the whole document to sans-serif.
+
+   - Use the font-family property.
+   - Target the <body> tag.
+
+3. Change the colour of the "Introduction" heading to red.
+
+   - Use the color property.
+   - Target the identifier.
+
+4. For the odd table rows, convert the background colour to grey and foreground colour to white.
+
+   - Use the background-color and color properties.
+   - Target the class.
+
+5. Right-align the temperature values in the table.
+
+   - Use the text-align property.
+   - Use an adjacent sibling selector.
+
+6. Left-align the first cell in the table footer.

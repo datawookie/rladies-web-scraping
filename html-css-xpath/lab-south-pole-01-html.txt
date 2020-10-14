@@ -1,0 +1,29 @@
+==============================================================================================================
+= HTML EXERCISE                                                                                              =
+==============================================================================================================
+
+1. Create a file called south-pole.html.
+2. Add the basic structure for an HTML document (html, head and body tags).
+3. Add a suitable <title> tag (the page is going to be about the South Pole).
+4. Add a top level heading "The South Pole".
+5. Add three section headings: "Introduction", "View" and "Weather".
+6. Add one or more short paragraphs to each section. Use https://www.lipsum.com/ if uninspired.
+7. Add a suitable image to the second section.
+8. Add a table of average monthly temperates to the third section.
+
+     Month Temperature (°C)
+       Jan     −28.4
+       Feb     -40.9
+       Mar     -53.7
+       Apr     -57.8
+       May     -58.0
+       Jun     -58.9
+       Jul     -59.8
+       Aug     -59.7
+       Sep     -59.1
+       Oct     -51.6
+       Nov     -38.2
+       Dec     -28.0
+
+9. Add the classes "odd" and "even" to the odd and even numbered rows in the table.
+10. Add the identifier "introduction" to the "Introduction" section.
