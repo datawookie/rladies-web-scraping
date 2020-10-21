@@ -26,7 +26,7 @@ library(rvest)
 
 # 1. Go to the directory of the National Assembly at https://pmg.org.za/members/.
 # 2. Note that each member has a card and that the card links to a member page.
-# 3. Click through to a personal page.
+# 3. Click through to a personal page and see what information is available.
 
 # ---------------------------------------------------------------------------------------------------------------------
 
